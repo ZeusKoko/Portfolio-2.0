@@ -2,5 +2,7 @@
   "name": "Mainframe",
   "description": "Peter Kokonya (Zeus) creative portfolio featuring interactive mouse-scrubbed background video, selected web engineering projects, brand identity gallery, and client reviews.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
